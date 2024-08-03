@@ -1,4 +1,4 @@
-# Finz-API <img src="finz.png" alt="Ícone" width="35" height="35">
+# Finz-Nes <img src="finz.png" alt="Ícone" width="35" height="35">
 
 A Finz-API é uma API criada para fornecer informações atuais sobre diversos tipos de ativos financeiros (Nacionais e Internacionais). Através dela, os usuários podem obter uma variedade de dados como por exemplo:
 - Cotação
